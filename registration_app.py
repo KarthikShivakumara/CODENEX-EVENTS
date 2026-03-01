@@ -118,9 +118,7 @@ ADMIN_PASSWORD = "karthi@123"
 # PATH
 # ======================================================
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
-REG_FILE = os.path.join(BASE_DIR,
-                        "Registration_App",
-                        "registrations_event1.json")
+REG_FILE = "registrations_event1.json"
 
 # ======================================================
 # JSON HELPERS
