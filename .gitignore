@@ -1,0 +1,6 @@
+registrations_event1.json
+__pycache__/
+*.pyc
+venv/
+v/
+.env
