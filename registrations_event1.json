@@ -1,0 +1,26 @@
+[
+    {
+        "team_name": "Karthik S",
+        "access_id": "915E1F23",
+        "members": [
+            {
+                "name": "Karthik S",
+                "email": "karthiks.23aiml@saividya.ac.in"
+            }
+        ]
+    },
+    {
+        "team_name": "LoveBirds",
+        "access_id": "87C39820",
+        "members": [
+            {
+                "name": "Karthik S",
+                "email": "karthikshivakumara44@gmail.com"
+            },
+            {
+                "name": "Aishwarya N",
+                "email": "aishwaryan.23aiml@saividya.ac.in"
+            }
+        ]
+    }
+]
